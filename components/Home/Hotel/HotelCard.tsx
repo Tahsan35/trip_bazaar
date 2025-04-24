@@ -34,7 +34,7 @@ const HotelCard = ({ hotel }: Props) => {
         {/* You can add more content here, such as hotel name, price, etc. */}
       </div>
       {/* content */}
-      <div>
+      <div className="ml-1">
         <h1 className="font-semibold text-rose-500 hover:text-rose-300 mt-3 cursor-pointer transition-all duration-200">
           {hotel.name}
         </h1>
@@ -51,7 +51,7 @@ const HotelCard = ({ hotel }: Props) => {
           </span>
         </div>
         {/* price */}
-        <p className="mt-3 text-gray-700 font-medium">
+        <p className="my-1.5 text-gray-700 font-medium">
           Starting from{" "}
           <span className="text-blue-600 font-bold">$ {hotel.price} </span>
         </p>

@@ -1,6 +1,8 @@
 import Destination from "./Destination/Destination";
 import Hero from "./Hero/Hero";
 import Hotel from "./Hotel/Hotel";
+import Reviews from "./Reviews/Reviews";
+import WhyChoose from "./WhyChoose/WhyChoose";
 
 const Home = () => {
   return (
@@ -8,6 +10,8 @@ const Home = () => {
       <Hero />
       <Destination />
       <Hotel />
+      <WhyChoose />
+      <Reviews />
     </div>
   );
 };

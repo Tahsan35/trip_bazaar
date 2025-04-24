@@ -6,7 +6,10 @@ const Destination = () => {
   return (
     <div className="pt-20 pb-20">
       {/* section heading */}
-      <SectionHeading heading="Exploring Popular Destination" />
+      <SectionHeading
+        heading="Exploring Popular Destination"
+        subHeading="Experience the world's finest destinations and make lasting memories  "
+      />
       {/* section content */}
       <div className="mt-14 w-[80%] mx-auto">
         {/*slider  */}
