@@ -2,6 +2,7 @@ import Destination from "./Destination/Destination";
 import Hero from "./Hero/Hero";
 import Hotel from "./Hotel/Hotel";
 import News from "./News/News";
+import Newsletter from "./Newsletter/Newsletter";
 import Reviews from "./Reviews/Reviews";
 import WhyChoose from "./WhyChoose/WhyChoose";
 
@@ -14,6 +15,7 @@ const Home = () => {
       <WhyChoose />
       <Reviews />
       <News />
+      <Newsletter />
     </div>
   );
 };

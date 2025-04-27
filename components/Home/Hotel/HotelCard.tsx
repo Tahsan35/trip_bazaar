@@ -35,7 +35,7 @@ const HotelCard = ({ hotel }: Props) => {
       </div>
       {/* content */}
       <div className="ml-1">
-        <h1 className="font-semibold text-rose-500 hover:text-rose-300 mt-3 cursor-pointer transition-all duration-200">
+        <h1 className="font-semibold text-green-500 hover:text-green-300 mt-3 cursor-pointer transition-all duration-200">
           {hotel.name}
         </h1>
         <p className="text-sm text-gray-600 mt-3 mb-6 font-medium ">
