@@ -1,4 +1,3 @@
-import SearchBox from "@/components/Helper/SearchBox";
 import { BsEnvelopePaper } from "react-icons/bs";
 
 const Newsletter = () => {
@@ -11,18 +10,15 @@ const Newsletter = () => {
         to your inbox.
       </p>
       {/* subscription input and btn */}
-      <div className="w-[80%] mt-20 flex items-center justify-between">
+      <div className="w-[90%] md:w-[80%] lg:w-[70%] mt-20 flex flex-col md:flex-row items-center gap-4 md:gap-0 md:justify-between">
         <input
           type="text"
           placeholder="Enter your email"
-          className="w-[60%] max-w-xl py-4 px-4 bg-white text-black rounded-lg outline-none"
+          className="w-full md:w-[60%] py-4 px-4 bg-white text-black rounded-lg outline-none"
         />
-        <button className="w-[30%] py-4 px-4 text-green-500 text-base bg-white hover:bg-gray-700 transition-all duration-200 rounded-lg">
+        <button className="w-full md:w-[35%] lg:w-[30%] py-4 px-4 text-green-500 text-base bg-white hover:bg-gray-700 transition-all duration-200 rounded-lg">
           Subscribe
         </button>
-        {/* <button className="md:px-12 md:py-2.5 px-8 py-2 text-green-500 text-base bg-white hover:bg-gray-200 transition-all duration-200 rounded-lg">
-          Book Now
-        </button> */}
       </div>
     </div>
   );

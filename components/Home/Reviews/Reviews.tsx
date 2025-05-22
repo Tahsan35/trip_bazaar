@@ -12,9 +12,9 @@ const Reviews = () => {
           </h1>
           <p className="mt-6 text-gray-200">
             We take pride in delivering exceptional travel experiences that
-            exceed our customers' expectations. Our commitment to quality
-            service and attention to detail has earned us the trust and loyalty
-            of travelers worldwide. Read what our valued customers have to say
+            exceed our customer expectations. Our commitment to quality service
+            and attention to detail has earned us the trust and loyalty of
+            travelers worldwide. Read what our valued customers have to say
             about their journeys with us.
           </p>
           {/* Ratings */}

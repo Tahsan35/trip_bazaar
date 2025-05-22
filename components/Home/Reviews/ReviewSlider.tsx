@@ -22,7 +22,7 @@ const ReviewSlider = () => {
       >
         {reviewData.map((data) => (
           <SwiperSlide key={data.id} className="bg-white rounded-3xl block">
-            <div className="w-[80%] mx-auto mt-16">
+            <div className="w-[80%] mx-auto mt-10">
               {/* text */}
               <p className="text-xs sm:text-sm md:text-base font-semibold">
                 {data.review}
@@ -37,7 +37,7 @@ const ReviewSlider = () => {
               </div>
 
               {/* user profile */}
-              <div className="pt-10">
+              <div className="pt-5">
                 <div className="flex items-center space-x-4">
                   <Image
                     src={data.image}

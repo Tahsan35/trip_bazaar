@@ -18,6 +18,7 @@ export const metadata: Metadata = {
   title: "Trip Bazaar",
   description:
     " Trip Bazaar is a travel agency that offers you the best deals and services.",
+  icons: [{ url: "/favicon.ico" }, { url: "/fav.png" }],
 };
 
 export default function RootLayout({

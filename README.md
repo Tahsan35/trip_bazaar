@@ -1,36 +1,28 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# MD SHAKIL
 
-## Getting Started
+[md.shakil.developer@gmail.com](mailto:md.shakil.developer@gmail.com) | [LinkedIn Profile URL](https://www.linkedin.com/in/md-shakil-5581281b7/) | [GitHub Profile URL](https://github.com/Tahsan35) | +8801623443703
 
-First, run the development server:
+## Summary
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Trip Bazaar is travel platform landing page designed.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+"This project, Trip Bazaar, showcases a comprehensive travel agency website featuring dynamic destination exploration, detailed hotel listings with interactive elements, customer review sections, and a newsletter subscription. Key technologies like React, Swiper, and React Multi Carousel
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Projects
 
-## Learn More
+**Project Name 2 (e.g., Trip Bazaar)** | [Link to Project (if applicable)](https://example.com)
+_A travel agency web application built with Next.js, TypeScript, and Tailwind CSS. Features include destination browsing, hotel listings, customer reviews, and a newsletter subscription._
 
-To learn more about Next.js, take a look at the following resources:
+- Developed responsive UI components for various sections like Hero, Destination, Hotels, etc.
+- Managed static data for site content and implemented interactive sliders using Swiper and React Multi Carousel.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Skills
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **Programming Languages:** JavaScript, TypeScript
+- **Frameworks/Libraries:** React, Next.js (v15.3.1), Swiper (v11.2.6), React Multi Carousel (v2.8.6), React Icons (v5.5.0)
+- **Styling:** Tailwind CSS (v4)
+- **Development Tools:** Node.js, npm, Git, ESLint (v9), Turbopack
+- **Linting & Formatting:** ESLint, Next.js ESLint Config
+- **Other:** Agile Methodologies, UI/UX Design (if applicable)

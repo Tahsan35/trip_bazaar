@@ -1,12 +1,4 @@
-import Image from "next/image";
-import Link from "next/link";
-
-import {
-  RiMapPin2Fill,
-  RiMailFill,
-  RiArrowRightLine,
-  RiPhoneFindFill,
-} from "react-icons/ri";
+import { RiMapPin2Fill, RiMailFill, RiPhoneFindFill } from "react-icons/ri";
 
 const Footer = () => {
   return (
@@ -32,7 +24,7 @@ const Footer = () => {
         </div>
       </div>
 
-      <div className=" pl-4 py-6 mt-12 border-t border-gray-400 text-border flex flex-col justify-center">
+      <div className="py-6 mt-12 border-t border-gray-400 text-border flex flex-col justify-center">
         <p className="flex justify-center mt-2.5">
           © {new Date().getFullYear()} Trip Bazaar. All rights reserved.
         </p>
