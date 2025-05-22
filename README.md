@@ -12,7 +12,7 @@ Trip Bazaar is travel platform landing page designed.
 
 ## Projects
 
-**Trip Bazaar ** | [Link to Project](https://trip-bazaarlandingpage.vercel.app/)
+**Trip Bazaar ** | [Link to Project](https://trip-bazaarlandingpage.vercel.app/) || [Link to Project Code](https://github.com/Tahsan35/trip_bazaar)
 _A travel agency web application built with Next.js, TypeScript, and Tailwind CSS. Features include destination browsing, hotel listings, customer reviews, and a newsletter subscription._
 
 - Developed responsive UI components for various sections like Hero, Destination, Hotels, etc.
